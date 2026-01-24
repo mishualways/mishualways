@@ -1,7 +1,7 @@
 <!--This is banner image-->
 <br clear="both">
 
-<img align="left" height="294" src="https://media.licdn.com/dms/image/v2/D5616AQFhKei4Spw7-w/profile-displaybackgroundimage-shrink_350_1400/B56ZqSDze0I4AY-/0/1763387063013?e=1767830400&v=beta&t=XMQcvYdlFsDHjmBJsi93K88n3CA5e8ubg1L3BRczp1s"  />
+<img src="https://media.licdn.com/dms/image/v2/D5616AQFhKei4Spw7-w/profile-displaybackgroundimage-shrink_350_1400/B56ZqSDze0I4AY-/0/1763387063013?e=1770854400&amp;v=beta&amp;t=-Vlt-kM-h-RdkR4cOMtO6eQgyG3UdtPZ4Vywtq9rE6M" alt="Mishu Debnath" id="ember263" class="full-width evi-image ember-view">
 
 ###
 <br clear="both">
