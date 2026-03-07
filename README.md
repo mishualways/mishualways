@@ -1,7 +1,7 @@
 <!-- ============================================This is banner image start ============================================-->
 <br clear="both">
 
-<img src="https://media.licdn.com/dms/image/v2/D5616AQFhKei4Spw7-w/profile-displaybackgroundimage-shrink_350_1400/B56ZqSDze0I4AY-/0/1763387063013?e=1770854400&amp;v=beta&amp;t=-Vlt-kM-h-RdkR4cOMtO6eQgyG3UdtPZ4Vywtq9rE6M" alt="Mishu Debnath" id="ember263" class="full-width evi-image ember-view">
+<img src="https://media.licdn.com/dms/image/v2/D5616AQHtPr_CXvORhQ/profile-displaybackgroundimage-shrink_350_1400/B56ZzJBxZOG4AY-/0/1772899211634?e=1774483200&v=beta&t=E-Pt5wyAV2Tz2mVVpOrWgBBfBDFiY9QM-Re2rBxfgqM" alt="Mishu Debnath" id="ember263" class="full-width evi-image ember-view">
 <!-- ============================================This is banner image end ============================================-->
 
 ###
