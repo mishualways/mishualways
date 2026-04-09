@@ -1,11 +1,9 @@
 <!-- ============================================This is banner image start ============================================-->
 <br clear="both">
 
-<img src="https://media.licdn.com/dms/image/v2/D5616AQHtPr_CXvORhQ/profile-displaybackgroundimage-shrink_350_1400/B56ZzJBxZOG4AY-/0/1772899211634?e=1774483200&v=beta&t=E-Pt5wyAV2Tz2mVVpOrWgBBfBDFiY9QM-Re2rBxfgqM" alt="Mishu Debnath" id="ember263" class="full-width evi-image ember-view">
+<img src="./assets/images/banner.png">
 <!-- ============================================This is banner image end ============================================-->
 
-###
-<br clear="both">
 <br clear="both">
 
 <!-- =====================================This is banner Header start ========================================================-->
@@ -16,10 +14,29 @@
 
 <!-- =====================================This is banner Header stensart ========================================================-->
 
-###
+- Location: sylhet,bangladesh
+- Email: mishudebnath926@gmail.com
+<!-- about  -->
 
-###
+---
+
+## 📍 About Me
+
+I am a passionate frontend developer from Bangladesh 🇧🇩
+
+I love building modern and responsive web applications.
+
+- 🌱 I’m currently learning MERN Stack Development
+- 📚 I’m practicing JavaScript, React & backend basics
+- 🎯 My goal is to become a full-stack developer
+- ⚡ Fun fact: I love clean UI & simple design
+
+---
+
 <!-- =============================This is Skil Icon section===========================================-->
+
+## 🛠️ Skills
+
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
   <img width="12" />
@@ -29,45 +46,54 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
+  <img src="https://skillicons.dev/icons?i=react" height="30" alt="github logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
+  
 </div>
 <!-- =============================This is Skil Icon end===========================================-->
 
-###
-<!-- ====================================This is Social Media Icon start =====================================-->
+## <!-- ====================================This is Social Media Icon start =====================================-->
+
+## 🌐 Connect with Me
 
 <div align="left">
   <a href="https://www.linkedin.com/in/mishudeb/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="mishudebnath927@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  
+  <a href="https://web.facebook.com/devmishunath">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
 </div>
 <!-- ====================================This is Social Media Icon end =====================================-->
 
+### 🎨 Tools
+
+- VS Code
+- Figma
+
+---
+
+- 💼 LinkedIn: https://www.linkedin.com/in/mishudeb
+- 📧 Email: mishudebnath926@gmail.com
+- 📱 Facebook: https://web.facebook.com/devmishunath
+
+---
 
 ###
+
 <!-- ============================================This is Visitor Section start ===========================================-->
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=devmishu.devmishu&left_color=brown"  />
 <!-- ============================================This is Visitor Section end ===========================================-->
-
-###
-###
-
-<br clear="both">
-<br clear="both">
-
-###
 
 <!-- ============================================This is Graph Section start ===========================================================-->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=devmishu&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
+
+---
+
+⭐ Thanks for visiting my profile!
+
 <!-- ============================================This is Graph Section end ===========================================================-->
-
-
-
