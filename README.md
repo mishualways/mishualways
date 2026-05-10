@@ -38,19 +38,43 @@ I love building modern and responsive web applications.
 ## 🛠️ Skills
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
+<img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
+<img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo"  />
   <img width="12" />
+   <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
+  <img width="12" />
+  
   <img src="https://skillicons.dev/icons?i=react" height="30" alt="github logo"  />
+  <img width="12" /> 
+  <img src="https://skillicons.dev/icons?i=nextjs" height="30" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="30" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="github logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
-  
+
 </div>
+
+ --- 
+### 🎨 UI Libraries
+
+- Daisy UI
+- Hero UI 
+
+ --- 
+
+### 🎨 Tools
+
+- VS Code
+- Figma
+- Git / GitHub
+- Postman
 <!-- =============================This is Skil Icon end===========================================-->
 
 ## <!-- ====================================This is Social Media Icon start =====================================-->
@@ -62,22 +86,11 @@ I love building modern and responsive web applications.
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   
-  <a href="https://web.facebook.com/devmishunath">
+  <a href="https://web.facebook.com/devmishunath" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
   </a>
 </div>
 <!-- ====================================This is Social Media Icon end =====================================-->
-
-### 🎨 Tools
-
-- VS Code
-- Figma
-
----
-
-- 💼 LinkedIn: https://www.linkedin.com/in/mishudeb
-- 📧 Email: mishudebnath926@gmail.com
-- 📱 Facebook: https://web.facebook.com/devmishunath
 
 ---
 
