@@ -12,6 +12,7 @@
   My name is Mishu Debnath.
 </h1>
 
+
 <!-- =====================================This is banner Header stensart ========================================================-->
 
 - Location: sylhet,bangladesh
@@ -22,13 +23,15 @@
 
 ## 📍 About Me
 
-I am a passionate frontend developer from Bangladesh 🇧🇩
+I am a passionate frontend and MERN-stack web developer from Bangladesh 🇧🇩 I specialize in creating ultra-minimal, modern, and pixel-perfect responsive web applications.
 
 I love building modern and responsive web applications.
 
-- 🌱 I’m currently learning MERN Stack Development
-- 📚 I’m practicing JavaScript, React & backend basics
-- 🎯 My goal is to become a full-stack developer
+- 🚀 Developing full-stack web applications using the MERN (MongoDB, Express, React, Node.js) stack.
+- ⚡ Deeply engaged in Next.js, Tailwind CSS v4, and dynamic state management.
+- 💎 Obsessed with pixel-perfect UI, "Apple-like" minimal aesthetics, and fluid animations.
+- 🛠️ Actively maintaining projects like AutoHive & Marbello with clean documentation.
+- 🎯 Current Goal: Engineering scalable architectures and optimizing performance to the highest standard.
 - ⚡ Fun fact: I love clean UI & simple design
 
 ---
@@ -57,17 +60,18 @@ I love building modern and responsive web applications.
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="github logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
+ 
 
 </div>
 
- --- 
+---
+
 ### 🎨 UI Libraries
 
 - Daisy UI
-- Hero UI 
+- Hero UI
 
- --- 
+  ***
 
 ### 🎨 Tools
 
@@ -99,6 +103,10 @@ I love building modern and responsive web applications.
 <!-- ============================================This is Visitor Section start ===========================================-->
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=devmishu.devmishu&left_color=brown"  />
 <!-- ============================================This is Visitor Section end ===========================================-->
+
+<div align="center">
+  <img src="https://github-readme-streak-stats-nine.vercel.app/?user=devmishu&theme=tokyonight&hide_border=true" height="150" alt="streak graph" />
+</div>
 
 <!-- ============================================This is Graph Section start ===========================================================-->
 <div align="center">
