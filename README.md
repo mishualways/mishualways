@@ -96,6 +96,7 @@ I love building modern and responsive web applications.
 </div>
 <!-- ====================================This is Social Media Icon end =====================================-->
 
+
 ---
 
 ###
@@ -104,16 +105,25 @@ I love building modern and responsive web applications.
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=devmishu.devmishu&left_color=brown"  />
 <!-- ============================================This is Visitor Section end ===========================================-->
 
-<div align="center">
-  <img src="https://github-readme-streak-stats-nine.vercel.app/?user=devmishu&theme=tokyonight&hide_border=true" height="150" alt="streak graph" />
-</div>
+
 
 <!-- ============================================This is Graph Section start ===========================================================-->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devmishu&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
 
 ---
+
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devmishu&theme=tokyonight" width="100%" />
+
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=devmishu&theme=tokyo-night&hide_border=true&area=true&line=58a6ff&point=58a6ff)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+
 
 ⭐ Thanks for visiting my profile!
 
